@@ -42,7 +42,7 @@ Tools
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- ![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Copde-333333?style=flat&logo=markdown)
+- ![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visualstudiocode)
 - ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=AdobePhotoshop)
 - ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-333333?style=flat&logo=MicrosoftExcel&logoColor=21A366)
 
