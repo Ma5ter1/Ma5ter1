@@ -2,8 +2,8 @@
 ## Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Here are my forms of contact:
 - [![Mail Badge](https://img.shields.io/badge/-trentdouglass199710@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:trentdouglass199710@gmail.com)](mailto:trentdouglass199710@gmail.com)
-- [![Indeed Badge](https://img.shields.io/badge/-Trent's_Indeed-2164f4?style=flat&logo=Indeed&logoColor=white&link=linkind:https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.94676894.324708786.1670897754-723158062.1667517674)](linkind:https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.94676894.324708786.1670897754-723158062.1667517674)
-- [![LinkedIn Badge](https://img.shields.io/badge/-Trent's_LinkedIn-caccce?style=flat&logo=LinkedIn&logoColor=0077b5&link=linkedin:https://www.linkedin.com/in/trent-douglass-a764721b9/)](linkedin:https://www.linkedin.com/in/trent-douglass-a764721b9)
+- [![Indeed Badge](https://img.shields.io/badge/-Trent's_Indeed-2164f4?style=flat&logo=Indeed&logoColor=white&link=https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.94676894.324708786.1670897754-723158062.1667517674)](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.94676894.324708786.1670897754-723158062.1667517674)
+- [![LinkedIn Badge](https://img.shields.io/badge/-Trent's_LinkedIn-caccce?style=flat&logo=LinkedIn&logoColor=0077b5&link=https://www.linkedin.com/in/trent-douglass-a764721b9/)](link:https://www.linkedin.com/in/trent-douglass-a764721b9)
 
 ---
 <img align="right" width="300" height="250" alt="GIF" src="https://media.tenor.com/GVk4jB2u_i8AAAAC/coding.gif" />
