@@ -1,6 +1,10 @@
-![Linux_Penguin_sippin_a_cold_one](https://i.imgur.com/4OzXpXB.png)
-## Hello Visitors! 👋
-[![Mail Badge](https://img.shields.io/badge/-trentdouglass199710@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:trentdouglass199710@gmail.com)](mailto:trentdouglass199710@gmail.com)
+![linux_penguin_sippin_a_coooold_one](https://i.imgur.com/4OzXpXB.png)
+## Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Here are my forms of contact:
+- [![Mail Badge](https://img.shields.io/badge/-trentdouglass199710@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:trentdouglass199710@gmail.com)](mailto:trentdouglass199710@gmail.com)
+- [![Indeed Badge](https://img.shields.io/badge/-Trent's_Indeed-2164f4?style=flat&logo=Indeed&logoColor=white&link=linkind:https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.94676894.324708786.1670897754-723158062.1667517674)](linkind:https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.94676894.324708786.1670897754-723158062.1667517674)
+- [![LinkedIn Badge](https://img.shields.io/badge/-Trent's_LinkedIn-caccce?style=flat&logo=LinkedIn&logoColor=0077b5&link=linkedin:https://www.linkedin.com/in/trent-douglass-a764721b9/)](linkedin:https://www.linkedin.com/in/trent-douglass-a764721b9)
+
 ---
 <img align="right" width="300" height="250" alt="GIF" src="https://media.tenor.com/GVk4jB2u_i8AAAAC/coding.gif" />
 
@@ -43,8 +47,10 @@ Tools
 - ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-333333?style=flat&logo=MicrosoftExcel&logoColor=21A366)
 
 ### Portfolio
+---
 **WIP**
 
+---
 > ***I am looking to "level up" my career, but if you also want to be friends or collaborate on projects don't be afraid to reach out!😊***
 
 🖊️-[Trent Douglass](https://github.com/Ma5ter1)
