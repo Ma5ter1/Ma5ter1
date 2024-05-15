@@ -11,7 +11,8 @@
 ### My name is Trent Douglass.
 
 - 💻 &#160;A Jr.Software Developer consistently learning new topics and techniques daily.
-- <img align="left" width="30" alt="CAEmoji" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/openmoji/252/flag-for-california-usca_1f3f4-e0075-e0073-e0063-e0061-e007f.png"> Currently residing in Menifee, CA.
+- Currently residing in Menifee, CA.
+- <img align="left" width="30" alt="CAEmoji" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/openmoji/252/flag-for-california-usca_1f3f4-e0075-e0073-e0063-e0061-e007f.png"> 
 
 Current Tech Stack
 -
